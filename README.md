@@ -72,3 +72,9 @@
 * 다양한 포맷(PDF, HTML) 문서 처리 기능 추가
 * 멀티 문서 검색 및 Top-k 문서 통합 기반 응답 개선
 * 사용자 질문 의도 분류 및 추천 질문 기능 연동
+
+---
+
+## 발표자료
+<img width="567" height="785" alt="rag" src="https://github.com/user-attachments/assets/442a3cda-5cc6-4f9b-b1e2-e008867e6dc1" />
+
