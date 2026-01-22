@@ -76,5 +76,5 @@
 ---
 
 ## 발표자료
-<img width="567" height="785" alt="rag" src="https://github.com/user-attachments/assets/442a3cda-5cc6-4f9b-b1e2-e008867e6dc1" />
+![스크린샷_22-1-2026_11264_](https://github.com/user-attachments/assets/970ab206-d8f2-4dfd-81f5-bc320013eb2d)
 
